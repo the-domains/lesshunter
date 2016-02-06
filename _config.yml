@@ -1,6 +1,6 @@
 name: lesshunter
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.51581
 typography_spectrum: 1
 title: tattooist
 collections:
@@ -35,7 +35,7 @@ color:
     - '#888888'
     - '#ababaa'
   brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
