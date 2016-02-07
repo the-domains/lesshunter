@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tattooist]]></title>
-        <description><![CDATA[tattooist]]></description>
+        <title><![CDATA[tattooist hong kong]]></title>
+        <description><![CDATA[tattooist hong kong]]></description>
         <link>https://thegrid.ai/lesshunter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 22:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 21:42:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lesshunter/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +47,6 @@
             <link>https://thegrid.ai/lesshunter/8b7affed-06f4-4374-9b3e-940170aac54c/index.html</link>
             <guid isPermaLink="false">8b7affed-06f4-4374-9b3e-940170aac54c</guid>
             <pubDate>Sat, 06 Feb 2016 20:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e60886d-a181-4a8a-8ee7-aeaa22b0d798.jpg">]]></description>
-            <link>https://thegrid.ai/lesshunter/92add9f0-48ff-4d55-b415-99ac5c54305b/index.html</link>
-            <guid isPermaLink="false">92add9f0-48ff-4d55-b415-99ac5c54305b</guid>
-            <pubDate>Sat, 06 Feb 2016 20:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
